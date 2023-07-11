@@ -24,7 +24,9 @@
 <div align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RoyZ-iwnl" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoyZ-iwnl/RoyZ-iwnl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RoyZ-iwnl/RoyZ-iwnl/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RoyZ-iwnl/RoyZ-iwnl/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
 
