@@ -1,5 +1,10 @@
-### Hi there 👋
+<p align="center">
+  <h1 align="center">RoyZ</h1>
+</p>
 
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?color=10EB82&size=23&center=true&lines=I Will Never Lose" alt="typing-svg">
+</p>
 <!--
 **RoyZ-iwnl/RoyZ-iwnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
