@@ -23,8 +23,10 @@
 
 <div align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RoyZ-iwnl" />
-
-<div align="center"><img src="https://raw.githubusercontent.com/RoyZ-iwnl/RoyZ-iwnl/main/assets/github-contribution-grid-snake.svg" ></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+</picture>
+</div>
 
 <!--
 **RoyZ-iwnl/RoyZ-iwnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
